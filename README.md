@@ -1,4 +1,4 @@
-# School
+# SchoolSimulation
 Simulate some of the events that happens in a school
 \
 
